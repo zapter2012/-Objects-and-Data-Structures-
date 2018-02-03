@@ -1,4 +1,3 @@
-# -Objects-and-Data-Structures-
 {
  "cells": [
   {
